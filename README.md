@@ -1,4 +1,4 @@
-#COMP90051 Project1
+# COMP90051 Project1
 
 The goal of the Project is to develop skills in researching and applying methods from subareas of Statistical
 Machine Learning (SML) that may be unfamiliar, by leveraging the fundamental knowledge built in lectures and
