@@ -3,6 +3,7 @@ data/
 .vscode/
 .idea/
 processed/
+.ipynb_checkpoints/
 
 # system files
 .installed.cfg
@@ -20,3 +21,4 @@ lib64
 #Python extensions
 *.pyc
 *.pyo
+
