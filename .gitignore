@@ -1,0 +1,22 @@
+# Potential folders exclusions
+data/
+.vscode/
+.idea/
+processed/
+
+# system files
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
+
+
+#Python extensions
+*.pyc
+*.pyo
