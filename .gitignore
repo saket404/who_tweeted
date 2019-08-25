@@ -4,6 +4,8 @@ data/
 .idea/
 processed/
 .ipynb_checkpoints/
+model/
+
 
 # system files
 .installed.cfg
