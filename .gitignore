@@ -23,4 +23,4 @@ lib64
 #Python extensions
 *.pyc
 *.pyo
-
+*.train
